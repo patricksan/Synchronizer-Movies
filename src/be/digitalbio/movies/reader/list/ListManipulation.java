@@ -25,7 +25,7 @@ public class ListManipulation {
 		return instance;
 	}
 
-	@SuppressWarnings("unchecked")
+	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public void readSavedList() {
 		XMLDecoder xmlDecoder = null;
 		try {
