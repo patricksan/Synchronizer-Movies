@@ -6,7 +6,7 @@ import java.io.File;
  * <b>Project: </b>MoviesReader<br>
  * <B>Description: </B>Path to all files<br>
  * 
- * @author <a href=mailto:psantana@vangenechten.com>Patrick Santana</a><br>
+ * @author <a href=mailto:psantana@moogu.com>Patrick Santana</a><br>
  *         Created: Feb 23, 2009 4:16:17 PM
  */
 public final class FileLocalization {

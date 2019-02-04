@@ -15,7 +15,7 @@ import be.digitalbio.movies.reader.config.ConfigurationManipulation;
  * <B>Project: </B>MoviesReader<br>
  * <B>Description: </B>ToDO<br>
  * 
- * @author <a href=mailto:psantana@vangenechten.com>Patrick Santana</a><br>
+ * @author <a href=mailto:psantana@moogu.com>Patrick Santana</a><br>
  *         Created: 28-apr-08 18:28:07
  */
 public class Main {
